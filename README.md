@@ -10,7 +10,7 @@ thing about this thing is, its easy. I love minimal things, so I buit my own sim
 
 ### The GUI:
 This is how the GUI will look.
-![Logo]()
+![Logo](https://github.com/nabq5272B/Minimal-Todo-List-Application/blob/main/gui.PNG)
 
 Here's the icon.
 ![Icon](https://github.com/nabq5272B/Minimal-Todo-List-Application/blob/main/giticon.png)
