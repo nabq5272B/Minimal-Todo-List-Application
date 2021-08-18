@@ -15,7 +15,7 @@ This is how the GUI will look.
 
 Here's the icon.
 
-<img src="https://github.com/nabq5272B/Minimal-Todo-List-Application/blob/main/giticon.png" width="90" height="90">
+<img src="https://github.com/nabq5272B/Minimal-Todo-List-Application/blob/main/giticon.png" width="150" height="225">
 
 ### Installations:
 Although there's an executable file in the repository, you can also download and install `python` and `tkinter` in your pc to visualize the code easily.
