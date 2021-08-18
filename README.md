@@ -11,7 +11,7 @@ thing about this thing is, its easy. I love minimal things, so I buit my own sim
 ### The GUI:
 This is how the GUI will look.
 
-<img src="https://github.com/nabq5272B/Minimal-Todo-List-Application/blob/main/gui.PNG" width="150" height="225">
+<img src="https://github.com/nabq5272B/Minimal-Todo-List-Application/blob/main/gui.PNG" width="250" height="375">
 
 Here's the icon.
 
