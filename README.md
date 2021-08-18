@@ -13,7 +13,7 @@ This is how the GUI will look.
 ![Logo]()
 
 Here's the icon.
-![Icon]()
+![Icon](https://github.com/nabq5272B/Minimal-Todo-List-Application/blob/main/giticon.png)
 
 ### Installations:
 Although there's an executable file in the repository, you can also download and install `python` and `tkinter` in your pc to visualize the code easily.
