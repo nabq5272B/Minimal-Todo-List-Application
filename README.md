@@ -11,11 +11,11 @@ thing about this thing is, its easy. I love minimal things, so I buit my own sim
 ### The GUI:
 This is how the GUI will look.
 
-<img src="https://github.com/nabq5272B/Minimal-Todo-List-Application/blob/main/gui.PNG">
+<img src="https://github.com/nabq5272B/Minimal-Todo-List-Application/blob/main/gui.PNG" width="150" height="225">
 
 Here's the icon.
 
-<img src="https://github.com/nabq5272B/Minimal-Todo-List-Application/blob/main/giticon.png" width="150" height="225">
+<img src="https://github.com/nabq5272B/Minimal-Todo-List-Application/blob/main/giticon.png" width="90" height="90">
 
 ### Installations:
 Although there's an executable file in the repository, you can also download and install `python` and `tkinter` in your pc to visualize the code easily.
